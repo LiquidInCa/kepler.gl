@@ -1,4 +1,6 @@
 # Kepler.gl
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLiquidInCa%2Fkepler.gl.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FLiquidInCa%2Fkepler.gl?ref=badge_shield)
+
 
 [kepler.gl](http://www.kepler.gl/) is a data-agnostic, high-performance web-based application for visual exploration of large-scale geolocation data sets. Built on top of [deck.gl](http://uber.github.io/deck.gl/#/), kepler.gl can render millions of points representing thousands of trips and perform spatial aggregations on the fly.
 
@@ -383,3 +385,7 @@ config: {
 }
 ```
 the latter will be applied and the map view will be moved the defined coordinates.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLiquidInCa%2Fkepler.gl.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLiquidInCa%2Fkepler.gl?ref=badge_large)
